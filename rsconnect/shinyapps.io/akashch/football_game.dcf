@@ -1,0 +1,12 @@
+name: football_game
+title: football_game
+username:
+account: akashch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 902147
+bundleId: 2051856
+url: https://akashch.shinyapps.io/football_game/
+when: 1556687219.65708
+asMultiple: FALSE
+asStatic: FALSE
